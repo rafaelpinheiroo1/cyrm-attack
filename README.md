@@ -3,7 +3,7 @@
 CyRM é uma estrutura de treinamento de segurança cibernética que simplifica o processo de configuração do treinamento por meio de uma abordagem que integra o conteúdo do treinamento e o gerenciamento do ambiente de treinamento.
 
 
-## Detecção, diagnóstico e mitigação de ataques em um ambiente corporativo
+## Ataques em um ambiente corporativo
 
 ### CENÁRIO
 
