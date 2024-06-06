@@ -1,13 +1,13 @@
 # CyRM-Attack
 
-CyRM é uma estrutura de treinamento de segurança cibernética que simplifica o processo de configuração do treinamento por meio de uma abordagem que integra o conteúdo do treinamento e o gerenciamento do ambiente de treinamento.
+O CyRM é uma ferramenta de cyber range projetada para criar ambientes virtualizados e controlados, permitindo a simulação e emulação de cenários reais de ataques cibernéticos. Além de acompanhar exercícios práticos, ele simplifica a configuração do treinamento ao integrar o conteúdo didático com a gestão do ambiente, incluindo questões guiadas.
 
 
 ## Ataques em um ambiente corporativo
 
 ### CENÁRIO
 
-A **TECHNICAL INTELLIGENCE LTDA** é uma empresa especializada em armazenamento, uma das suas principais atividades é dar suporte aos seus clientes. Portanto, foi criado um departamento de segurança da informação com propósito de proteger sua empresa de ataques cibernéticos. A companhia possui muitos clientes, responsabilidades e grande tráfego com as aplicações web. Neste cenário, você foi contratado para administrar e gerenciar a rede corporativa da empresa.
+A **TECHNICAL INTELLIGENCE LTDA** é uma empresa inovadora de tecnologia dedicada a fornecer soluções de computação em nuvem de ponta para empresas de todos os portes. Nossa missão é alcançar agilidade, eficiência e escalabilidade por meio da adoção inteligente da computação em nuvem. Sua matriz está localizada na américa do sul. Com clientes em todo o continente americano e está abrangendo os continentes europeu e africano.
 
 Segue a topologia da rede:
 
@@ -73,7 +73,7 @@ $ sudo ./start_cyrm.sh
 
 **E pronto! Podemos começar a resolver este questionário! Opa, mas espere! Antes de iniciarmos o treinamento, seguem algumas dica de uso do CLI do containernet:**
 
-### USANDO O CYRM
+### USANDO O CYRM ATTACK 
 
 Para **executar os comandos nos dispositivos**, primeiramente digite o hostname que deseja e, logo após, o comando desejado, conforme o modelo a seguir:
 
