@@ -3,6 +3,7 @@ LABEL maintainer=”RafaelPinheiro”
 LABEL maintainer=”rafaelpinheiro.380@alu.ufc.br”
 RUN apk update
 RUN apk add bash \
+        openssh \
         tcpdump \
         iperf \
         busybox-extras \
